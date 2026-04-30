@@ -1,5 +1,5 @@
 # The Leaderboard
-| Team | Score |
-| --- | --- |
-| HanseeVee
+| Place | Team | Score |
+| --- | --- | --- |
+| 1 | HanseeVee
  | -235.92077594111674 |
